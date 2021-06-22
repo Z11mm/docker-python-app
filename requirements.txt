@@ -10,6 +10,8 @@ greenlet==1.1.0
 itsdangerous==1.1.0
 Jinja2==2.11.3
 MarkupSafe==1.1.1
+mysql-connector-python==8.0.25
+protobuf==3.17.3
 pycparser==2.20
 python-dotenv==0.17.1
 six==1.16.0
